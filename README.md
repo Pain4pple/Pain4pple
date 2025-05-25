@@ -2,12 +2,11 @@
 
 **`aka Painapple (Developer/Digital Artist)`**
 
-A ***full-stack developer*** in the making at the University of Santo Tomas, I’m all about mixing code with creativity! Whether I’m whipping up cute graphics for websites and apps or diving into backend bugs (yes, I actually enjoy debugging), I love making things that look great and work even better. My designs might be a little out there sometimes, but hey, that’s the fun of it! Who else is gonna vibe with my quirky UI ideas as much as I do?
+A ***full-stack developer*** in the making at the University of Santo Tomas, I’m all about mixing code with creativity! Whether I’m whipping up cute graphics for websites and apps or diving into backend bugs (yes, I actually enjoy debugging), I love making things that look great and work even better. My designs might be a little out there sometimes, but hey, that’s the fun of it! Who else is gonna put up with my weird UI ideas besides me?
 
 - 🌱 _Currently learning about IoT and IT Automation._
 - 🔭 _I’m currently working on remotely operated robot that I can use to pet my dogs while I am in the university_
 - 😄 _I studied Mobile Application and Web Development in STI College_
-- 💬 _Fun Fact: No one handles my wild UI ideas better than me!_
 ---
 
 ### 🧰 Languages and Tools
